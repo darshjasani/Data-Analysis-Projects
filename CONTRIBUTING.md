@@ -8,18 +8,19 @@ Before you begin, please take a moment to review these guidelines to make the co
 Navigate to the repository page.
 Click the Fork button to create a copy of the repository in your GitHub account.
 Clone your fork locally:
+
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/darshjasani/Data-Analysis-Projects.git
+cd Data-Analysis-Projects
 ```
 
 2. Create a Branch
 Create a new branch for your contribution:
+Use a descriptive branch name that indicates what you're working on.
 
 ```bash
 git checkout -b feature/your-feature-name
 ```
-Use a descriptive branch name that indicates what you're working on.
 
 3. Make Changes
 Make your changes to the codebase or documentation. Be sure to follow any coding style guidelines specified in the repository.
