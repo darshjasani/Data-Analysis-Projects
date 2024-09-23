@@ -8,17 +8,17 @@ Before you begin, please take a moment to review these guidelines to make the co
 Navigate to the repository page.
 Click the Fork button to create a copy of the repository in your GitHub account.
 Clone your fork locally:
-bash
-Copy code
+```bash
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
+```
 
 2. Create a Branch
 Create a new branch for your contribution:
 
-bash
-Copy code
+```bash
 git checkout -b feature/your-feature-name
+```
 Use a descriptive branch name that indicates what you're working on.
 
 3. Make Changes
@@ -30,43 +30,44 @@ If the repository has tests, ensure your changes pass by running the tests. Add 
 5. Commit Your Changes
 Commit your changes with a meaningful commit message:
 
-bash
-Copy code
+```bash
 git add .
 git commit -m "Add feature/fix: brief description"
+```
+
 6. Push Changes to GitHub
 Push your changes to your forked repository:
 
-bash
-Copy code
+``` bash
 git push origin feature/your-feature-name
+```
 
 7. Submit a Pull Request
-Go to the original repository on GitHub.
-Click on Pull Requests.
-Click the New Pull Request button.
-Select the branch with your changes from your forked repository.
-Fill out the template provided and submit your pull request.
+- Go to the original repository on GitHub.
+- Click on Pull Requests.
+- Click the New Pull Request button.
+- Select the branch with your changes from your forked repository.
+- Fill out the template provided and submit your pull request.
 
 8. Wait for Feedback
 After submitting your pull request, the maintainers will review it. Please be patient as the maintainers might suggest changes or improvements.
 
 ## Guidelines for Contributions
-Code Contributions
-Follow the coding style and conventions used in the project.
-Ensure all new code is covered by appropriate tests.
-Write clear, concise commit messages.
-Bug Reports
-Ensure the issue is reproducible on the latest version of the repository.
-Provide as much detail as possible, including steps to reproduce, expected behavior, and screenshots if relevant.
-Feature Requests
-Before submitting a feature request, please ensure it hasn’t already been suggested by checking the issue tracker.
-Provide a detailed description of the requested feature, including its purpose, use cases, and any possible alternatives.
-Documentation Contributions
-Feel free to fix typos, improve the clarity of existing documentation, or add missing sections.
-Ensure any code examples in the documentation are correct and tested.
-Code of Conduct
-Please note that we have a Code of Conduct, and we expect contributors to adhere to it in all interactions.
+1) Code Contributions
+- Follow the coding style and conventions used in the project.
+- Ensure all new code is covered by appropriate tests.
+- Write clear, concise commit messages.
+2) Bug Reports
+- Ensure the issue is reproducible on the latest version of the repository.
+- Provide as much detail as possible, including steps to reproduce, expected behavior, and screenshots if relevant.
+3) Feature Requests
+- Before submitting a feature request, please ensure it hasn’t already been suggested by checking the issue tracker.
+- Provide a detailed description of the requested feature, including its purpose, use cases, and any possible alternatives.
+4) Documentation Contributions
+- Feel free to fix typos, improve the clarity of existing documentation, or add missing sections.
+- Ensure any code examples in the documentation are correct and tested.
+5) Code of Conduct
+- Please note that we have a Code of Conduct, and we expect contributors to adhere to it in all interactions.
 
 ## Questions or Need Help?
 If you have any questions or need assistance while contributing, feel free to reach out by opening an issue or by contacting the maintainers.
