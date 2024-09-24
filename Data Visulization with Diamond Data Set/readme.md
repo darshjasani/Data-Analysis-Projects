@@ -1,7 +1,6 @@
-## Data Visualization with Diamond Dataset
+# Data Visualization with Diamond Dataset
 This repository contains various Jupyter notebooks designed for practicing and exploring different data visualization techniques using the Diamond dataset and other supplementary datasets. Each notebook focuses on specific types of plots, exploratory data analysis (EDA), and multivariate visualizations to gain insights into the data.
 
-## Contents
 # Notebooks
 
 1) Adapted_Plot_Practice.ipynb
