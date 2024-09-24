@@ -1,14 +1,14 @@
-## Data Wrangling and Analysis: Phase II Clinical Trial Dataset
+# Data Wrangling and Analysis: Phase II Clinical Trial Dataset
 
 This project involves the cleaning and exploratory data analysis (EDA) of a Phase II clinical trial dataset. The dataset includes demographic, medical, and trial-specific information about patients involved in the study. The primary objective of this project is to clean the raw data, handle inconsistencies, and perform meaningful analyses that reveal insights into the clinical trial participants and outcomes.
 
-# DISCLAIMER: This Data Isn't "Real"
+## DISCLAIMER: This Data Isn't "Real"
 The Auralin and Novodra are not real insulin products. This clinical trial data was fabricated for 
 the sake of this project. When assessing this data, the issues detected (and later cleaned) 
 are meant to simulate real-world data quality and tidiness issues.
 
 
-# Key Features of the Project
+## Key Features of the Project
 
 1) Data Cleaning:
 
@@ -34,7 +34,7 @@ Bar charts representing the distribution of assigned sexes among trial participa
 Scatter plots showing the correlation between BMI and other variables such as weight and height.
 Geographical visualization to map out the spread of trial participants across different cities and states.
 
-# Key Insights
+## Key Insights
 
 1) Demographic Breakdown:
 The dataset revealed a near-even distribution of assigned sexes, with a small skew toward male participants.
